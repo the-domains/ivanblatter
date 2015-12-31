@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[IvanBlatter]]></title>
+        <description><![CDATA[IvanBlatter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 06:57:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Das hier ist der Titel]]></title>
+            <description><![CDATA[<article><h1>Das hier ist der Titel</h1><p>Hier steht eine Beschreibung.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c233218e-9a10-4ca1-b0c4-dcadb2ba6b84.jpg"></article>]]></description>
+            <link>undefineddas-hier-ist-der-titel/index.html</link>
+            <guid isPermaLink="false">0fc27510-20f0-4b28-bc33-005ae2dce4d5</guid>
+            <pubDate>Thu, 31 Dec 2015 06:57:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
